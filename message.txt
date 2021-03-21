@@ -1,0 +1,4 @@
+This message will be encrypted into the image using lsb steganography. Afterwards the message file will be cleared
+and remain empty. any extra bytes that are not needed for the message will be replaced with zero's this message shall
+not contain 17 consecutive 0's without a space seperating them. Decoded message will be stored in a different text
+file.
